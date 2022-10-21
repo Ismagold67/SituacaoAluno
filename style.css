@@ -1,0 +1,33 @@
+input{
+    padding: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    background-color: aliceblue;
+}
+
+th {
+    padding: 10px 20px;
+    border: 1px solid #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+th#coco {
+    background-color: pink;
+}
+body {
+    background-image: linear-gradient(to left, #0C4FE8, #0CB0E8 60%, #2100DB 100% );
+}
+#res2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: aliceblue;
+}
+h1 {
+    color: aliceblue;
+    font-weight: bold;
+}
